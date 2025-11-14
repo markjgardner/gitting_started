@@ -1,2 +1,1 @@
-# gitting_started
-Playing around with git
+# Brady's BBQ Ingredient Price Tracker
